@@ -1,5 +1,5 @@
 # foobar.pgm
-P5
+P5<br>
 #https://earth.google.com/web/<br>
 77 10/<br>
 255/<br>
