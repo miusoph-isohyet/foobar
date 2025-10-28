@@ -1,2 +1,16 @@
-# foobar
-yktd
+# foobar.pgm
+P5
+#https://earth.google.com/web/<br>
+77 10/<br>
+255/<br>
+P5\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/<br>
+#https://earth.google.com/web/\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/<br>
+76 5\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/<br>
+255\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\\/<br>
+@41.98107555,-87.9357913,214.88355739a,87.20931591d,35y,99.34590872h,73.668/<br>
+00076t,0r/data=CgRCAggBOgMKATBCAggASg0I____________ARAA?authuser=0\\\\\\\\\/<br>
+program: 3viVBORw0KGgoA3NSUhE2JdCI9k1lQ4nze5xfv7s+rXq8/PZMaWmp6tLHTyFjbuYDc/<br>
+control: 3viVBORw0KGgoA3NSUhE2yJYCad4XIrsc6Qn1xjv8ZDM7qP+lHeTu/f5mptWkz9bFL/<br>
+\binary: 3viVBORw0KGgoA3NSUhE2yJYCad1lQ4n9Z5xe+6qDfMmbcFsIkprX7Wz8HvjP/tTuL/<br>
+ternary: 3viVBORw0KGgoA3NSUhE2yJYCad1lQ4nz9Z5xeDf+rqsMuckTWFm6tIX78/LPHbpjv/<br>
+<img src="coordinates.google.earth.png" />
